@@ -10,4 +10,4 @@ If you wonder what this is or how to play it. it is a Scratch Popcat Project. if
 3: Click "Start Creating"
 4: in the top left the third one from the Scratch logo "File" Click File then you will "New, Load from your computer, Save to your computer"
 5: Click "Load from your computer" and choose "Scratch Project (2).sb3"
-6: boom. done, Click the Cat to pop and collect scores!
+6: boom. done, Click the Cat to pop and collect scores!  (sorry for bad english)
