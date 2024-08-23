@@ -1,13 +1,14 @@
 # -Official-Scratch-popcat-Project-by-puditcoo-
-I made a Scratch Popcat Project at School and this is my first time uploading files publicly. Scratch file by "puditcoo" It actually me but another account at school and this was my main account at my home. this one is the (Official) one
+I created a Popcat project on Scratch at school, and this is my first time sharing files publicly. The Scratch file is by "puditcoo," which is actually me, but on a different account at school. This is my main account at home, hence the (Official) label.
 
-ignore about weird language in the -removebg-preview.png files and the puditcoo README ver.
+Don't mind the weird language in the -removebg-preview.png files and the puditcoo README ver.
 
-If you wonder what this is or how to play it. it is a Scratch Popcat Project. if you don't know what it is. is a platform for programming, here is the link becuse, Why not: https://scratch.mit.edu
-(how to play)
-1: Download "Scratch Project (2).sb3"
-2: go to https://scratch.mit.edu (scratch)
-3: Click "Start Creating"
-4: in the top left the third one from the Scratch logo "File" Click File then you will "New, Load from your computer, Save to your computer"
-5: Click "Load from your computer" and choose "Scratch Project (2).sb3"
-6: boom. done, Click the Cat to pop and collect scores!  (sorry for bad english)
+If you're curious about what this is or how to play it, it's a Scratch Popcat Project. If you're unfamiliar with it, Scratch is a programming platform. Here's the link because, why not: https://scratch.mit.edu
+
+(How to Play)
+1. Download "Scratch Project (2).sb3"
+2. Go to https://scratch.mit.edu (Scratch)
+3. Click "Start Creating"
+4. In the top left, the third icon from the Scratch logo is "File." Click on File and you will see "New, Load from your computer, Save to your computer."
+5. Click "Load from your computer" and select "Scratch Project (2).sb3"
+6. Done! Click the Cat to pop and collect scores!
